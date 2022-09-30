@@ -1,0 +1,80 @@
+         #-----Kabali Gamer-----#
+# ------Block Every Ban activity------#
+# Block facebook network
+# Block Facebook
+# Block chrome
+# Block Google
+# Block google
+# Block firebase
+# Block DNS
+# Block Ban
+# Block meta
+# Block Free Fire
+# Block Facebook
+# Block Free fire max
+# Block free fire max
+# block free fire
+# Block Free Fire Max
+# Block free fire mobile
+# Block Free Fire Mobile
+# Block freefiremobile
+# Block suspend
+# Block approval behaviour
+# Block +999
+# Block toxic report
+# Block Head shot hacker
+# Block match making problem
+# Block blacklist
+# Block Error Message: Error occurred when connecting to server
+# Block Error Message: Login game server timeout
+# Block Error Message: Transaction failed due to poor network
+# Block Error Message: There are abnormal activities with your account. It has been suspended
+# Block Error Message: Couldn't complete your transaction. Gift cards can be used in the country where they were purchased
+# Block Abuse Policy
+# Block Anti-Hack FAQ
+# Block Connection Issues
+# Block Using modified or unauthorized game client
+# Block Using non-official programs to provide an edge to gameplay
+# Block Modifying model files to gain unfair advantages
+# Block Utilizing glitches or bugs to exploit gaming experience
+# Block Bypassing Free Fire anti-hack system via illicit local data transfer
+# Block Ban Notice
+# Block Account Ban
+# Block Error Message: Transaction failed 2999
+127.0.0.0	localhost
+127.0.0.0	localhost.localdomain
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+184.183.0.1 184.183.0.1
+184.183.0.1 astat.bugly.qcloud.com
+184.183.0.1 156.59.187.38
+184.183.0.1 freefiremobile-a.akamaihd.net
+184.183.0.1 129.227.210.98
+184.183.0.1 202.81.118.4
+184.183.0.1 202.81.117.22
+184.183.0.1 ffguide.garena.com
+184.183.0.1 143.92.120.31
+184.183.0.1 143.92.120.29
+184.183.0.1 143.92.120.30
+184.183.0.1 129.227.202.238
+184.183.0.1 dl.dir.freefiremobile.com
+184.183.0.1 graph.facebook.com
+184.183.0.1 version.common.ffmax.garena.com
+184.183.0.1 login.common.freefiremobile.com
+184.183.0.1 ff.sdk.grtc.garenanow.com
+184.183.0.1 dl.castle.freefiremobile.com
+184.183.0.1 astat.bugly.qcloud.com
+184.183.0.1 client.ind.freefiremobile.com
+184.183.0.1 ind.event.freefiremobile.com
+184.183.0.1 csoversea.stronghold.freefiremobile.com
+184.183.0.1 202.81.108.107
+184.183.0.1 202.81.109.230
+184.183.0.1 ffmconnect.live.gop.garenanow.com
+184.183.0.1 129.227.20.170
